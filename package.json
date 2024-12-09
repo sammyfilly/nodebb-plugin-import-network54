@@ -42,7 +42,7 @@
         "url": "https://github.com/nodebb/nodebb-plugin-import-network54/issues"
     },
     "dependencies": {
-        "async": "~0.9.0",
+        "async": "~3.2.0",
         "fs-extra": "^9.0.0",
         "marked": "^4.0.10",
         "mysql": "^2.17.1",
